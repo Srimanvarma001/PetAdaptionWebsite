@@ -46,7 +46,6 @@ function HomePage(){
       height: "100vh",
       backgroundSize: "cover"
     }}>
-      <div style={{display:"flex",justifyContent:"center",backgroundColor:"#c59771bd" , color:"white",fontSize:"20px"}}> Pet Adaption Form</div>
       <MainContent/>
     </div>
 }
